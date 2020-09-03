@@ -1,0 +1,2 @@
+# MNIST-DCGANS
+DC-GANS for MNIST dataset
